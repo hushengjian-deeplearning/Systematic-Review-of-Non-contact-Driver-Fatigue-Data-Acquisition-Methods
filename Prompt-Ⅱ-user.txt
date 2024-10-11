@@ -1,0 +1,25 @@
+Review the title and abstract of the following article, then summarize and answer these questions using the following concise keywords:
+1.Identify the specific transportation industry studied in this article. Select from: rail transportation, land transportation, water transportation, air transportation, other transportation. If not specified, indicate "none".
+2.List the data acquisition methods for driver fatigue. If not mentioned, indicate "none".
+3.List the data preprocessing methods for driver fatigue. If not mentioned, indicate "none".
+4.List the assessment methods for driver fatigue. If not mentioned, indicate "none".
+
+Please follow the following format strictly:
+1.Specific transportation industry: [Select from: rail, land, water, air, other, or "none" if unspecified]
+2.Data acquisition methods: ["Category1": "Specific method1","Specific method2" ...，"Category2": "Specific method1"]
+3. Data preprocessing methods: ["Method", ...]
+4. Driver fatigue assessment methods:["Category1": "Specific method1","Specific method2" ...，"Category2": "Specific method1"]
+
+Guidelines:
+1.Provide factual information only; avoid extrapolation
+2.Use brief keywords, not lengthy descriptions
+3. Include all relevant methods mentioned, not limited to common examples
+4. If the specific method is not mentioned, do not show it
+
+Example output:
+1. Specific transportation industry: ["land"]
+2. Data acquisition methods: ["Physiological": "EEG", "Behavioral": "Eye tracking"]
+3. Data preprocessing methods: ["Noise removal", "Feature extraction"]
+4. Driver fatigue assessment methods: ["Machine learning": "SVM"]
+
+Here's the article:

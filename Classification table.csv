@@ -1,0 +1,205 @@
+Feature,Signal Classification,Data Acquisition Methods Classification,Contact Method Classification
+eeg,Brain,Physiological,Contact
+electrocardiogram (ecg),Heart,Physiological,Contact
+eye tracking,Eyes,Behavioral,Non-contact
+face expressions,Face,Behavioral,Non-contact
+closed eye duration,Eyes,Behavioral,Non-contact
+eye movement,Eyes,Behavioral,Non-contact
+heart rate sensor,Heart,Physiological,Contact
+eog(f),Eyes,Physiological,Contact
+head movement,Head,Behavioral,Non-contact
+eye blink behavior,Eyes,Behavioral,Non-contact
+yawning patterns,Mouth,Behavioral,Non-contact
+steering wheel angle,Steering,Vehicle,Contact
+eye closure measures,Eyes,Behavioral,Non-contact
+karolinska sleepiness scale - kss,Subjective reporting,Subjective,Other
+video camera,Other,Other,Non-contact
+body acceleration,Vehicle motion,Vehicle,Non-contact
+heart rate variability,Heart,Physiological,Contact
+perclos,Eyes,Behavioral,Non-contact
+final speed,Vehicle motion,Vehicle,Non-contact
+surface emg,Skin,Physiological,Contact
+reaction time,Vehicle control input,Other,Other
+face image,Face,Behavioral,Non-contact
+pulse,Heart,Physiological,Contact
+open-eye state,Eyes,Behavioral,Non-contact
+eye blinking rate,Eyes,Behavioral,Non-contact
+head orientation,Head,Behavioral,Non-contact
+eye aspect ratio,Eyes,Behavioral,Non-contact
+eye position,Eyes,Behavioral,Non-contact
+facial features,Face,Behavioral,Non-contact
+eye opening and closing,Eyes,Behavioral,Non-contact
+blink,Eyes,Behavioral,Non-contact
+percentage of eye closure (perclos),Eyes,Behavioral,Non-contact
+head pose angles,Head,Behavioral,Non-contact
+thoracic respiration,Respiration,Physiological,Contact
+blink frequency,Eyes,Behavioral,Non-contact
+eye recognition,Eyes,Behavioral,Non-contact
+electrooculogram (eog),Eyes,Physiological,Contact
+photoplethysmography,Heart,Physiological,Contact
+pupil area measurement,Eyes,Behavioral,Non-contact
+facial recognition,Face,Behavioral,Non-contact
+eyelid closure ratio,Eyes,Behavioral,Non-contact
+mouth position,Mouth,Behavioral,Non-contact
+driving behavior,Other,Behavioral,Non-contact
+steering operation,Steering,Vehicle,Contact
+body temperature,Skin,Physiological,Contact
+ppg,Heart,Physiological,Contact
+blink durations,Eyes,Behavioral,Non-contact
+steering wheel movements,Steering,Vehicle,Contact
+lane positioning,Lane,Vehicle,Non-contact
+respiratory rate,Respiration,Physiological,Contact
+steering wheel,Steering,Vehicle,Contact
+head posture,Head,Behavioral,Non-contact
+fnirs,Brain,Physiological,Contact
+video sequences,Other,Behavioral,Non-contact
+visual,Eyes,Behavioral,Non-contact
+skin conduction,Skin,Physiological,Contact
+image processing,Other,Behavioral,Non-contact
+facial landmarks,Face,Behavioral,Non-contact
+accelerometer,Vehicle motion,Vehicle,Non-contact
+galvanic skin response,Skin,Physiological,Contact
+driving performance measuring,Vehicle control,Vehicle,Other
+temperature,Skin,Physiological,Contact
+lane keeping,Lane,Vehicle,Non-contact
+mouth aspect ratio,Mouth,Behavioral,Non-contact
+lateral position of the car,Lane,Vehicle,Non-contact
+head nod,Head,Behavioral,Non-contact
+stanford sleepiness scale,Subjective reporting,Subjective,Other
+fatigue measures,Other,Other,Other
+heart-rate variability (hrv),Heart,Physiological,Contact
+questionnaire,Subjective reporting,Subjective,Other
+hrv,Heart,Physiological,Contact
+electromyogram,Skin,Physiological,Contact
+eye gaze,Eyes,Behavioral,Non-contact
+lateral acceleration rates,Vehicle motion,Vehicle,Non-contact
+eda,Skin,Physiological,Contact
+beat-by-beat blood pressure,Heart,Physiological,Contact
+gyroscope,Vehicle motion,Vehicle,Non-contact
+facial feature tracking,Face,Behavioral,Non-contact
+gsr,Skin,Physiological,Contact
+vehicle speed,Vehicle motion,Vehicle,Non-contact
+facial behaviors,Face,Behavioral,Non-contact
+brain signals,Brain,Physiological,Contact
+audio,Speech,Behavioral,Non-contact
+tracking error,Vehicle motion,Vehicle,Non-contact
+fatigue,Other,Other,Other
+sensors,Other,Other,Other
+image,Other,Behavioral,Non-contact
+mouth opening rate,Mouth,Behavioral,Non-contact
+steering-wheel grip pressure,Steering,Vehicle,Contact
+performance,Vehicle control,Vehicle,Other
+back pressure,Pressure,Physiological,Contact
+kss,Subjective reporting,Subjective,Other
+force,Pressure,Physiological,Contact
+gaze monitoring,Eyes,Behavioral,Non-contact
+camera based,Other,Behavioral,Non-contact
+facial data,Face,Behavioral,Non-contact
+infrared imaging,Other,Behavioral,Non-contact
+nodding movements,Head,Behavioral,Non-contact
+smartphone sensors,Other,Other,Other
+mouth shape tracking,Mouth,Behavioral,Non-contact
+heart beat,Heart,Physiological,Contact
+vehicular-based,Other,Vehicle,Other
+saccadic parameters,Eyes,Behavioral,Non-contact
+electrodermal activity (eda),Skin,Physiological,Contact
+lane deviation,Lane,Vehicle,Non-contact
+face orientation,Face,Behavioral,Non-contact
+video,Other,Behavioral,Non-contact
+simulated driving,Vehicle control input,Other,Other
+eye related measurements,Eyes,Behavioral,Other
+horizontal neck bending angle,Posture,Behavioral,Non-contact
+sleepiness ratings,Subjective reporting,Subjective,Other
+facial video,Face,Behavioral,Non-contact
+seat interface pressure,Pressure,Physiological,Contact
+vehicle dynamics,Vehicle motion,Vehicle,Non-contact
+eye status,Eyes,Behavioral,Non-contact
+eye state analysis,Eyes,Behavioral,Non-contact
+breathing,Respiration,Physiological,Contact
+motion,Posture,Behavioral,Non-contact
+nirs,Brain,Physiological,Contact
+velocity,Vehicle motion,Vehicle,Non-contact
+hand pressure,Pressure,Physiological,Contact
+inertial sensors,Vehicle motion,Vehicle,Non-contact
+auditory vigilance task,Other,Behavioral,Other
+torso motion,Posture,Behavioral,Non-contact
+gps location,Vehicle motion,Vehicle,Non-contact
+drowsiness,Other,Other,Other
+mouth state,Mouth,Behavioral,Non-contact
+braking,Vehicle control,Vehicle,Contact
+eye movement parameters,Eyes,Behavioral,Non-contact
+semg,Skin,Physiological,Contact
+mouth opening/closing,Mouth,Behavioral,Non-contact
+pupil status,Eyes,Behavioral,Non-contact
+eyelid distance,Eyes,Behavioral,Non-contact
+body gestures,Posture,Behavioral,Non-contact
+doppler radar,Heart,Physiological,Non-contact
+facial action units,Face,Behavioral,Non-contact
+drowsy driving,Other,Other,Other
+speech,Speech,Behavioral,Non-contact
+respiratory signal,Respiration,Physiological,Contact
+high speed image sequence,Other,Behavioral,Non-contact
+thermal imagery,Skin,Physiological,Non-contact
+computer vision,Other,Behavioral,Non-contact
+observer of rating drowsiness (ord) scale,Subjective reporting,Subjective,Other
+steering data,Steering,Vehicle,Contact
+radar,Heart,Physiological,Non-contact
+respiration signals,Respiration,Physiological,Contact
+neck movements,Posture,Behavioral,Non-contact
+kinematic driving parameters,Vehicle motion,Vehicle,Non-contact
+yaw angle,Vehicle motion,Vehicle,Non-contact
+visual cues,Eyes,Behavioral,Non-contact
+eye openness level,Eyes,Behavioral,Non-contact
+video monitoring,Other,Behavioral,Non-contact
+image acquisition,Other,Behavioral,Non-contact
+motion data,Vehicle motion,Vehicle,Non-contact
+vehicle behavior analysis,Vehicle motion,Vehicle,Non-contact
+environmental,Other,Other,Other
+voice,Speech,Behavioral,Non-contact
+pupil reaction to light,Eyes,Behavioral,Non-contact
+microsleep,Other,Other,Other
+bio-potential sensors,Other,Physiological,Contact
+arm position,Posture,Behavioral,Non-contact
+self-report questionnaires,Subjective reporting,Subjective,Other
+standard deviation of lateral position,Lane,Vehicle,Non-contact
+alcohol sensor,Other,Physiological,Contact
+force exerted by the driver at the vehicle-human interfaces,Vehicle control,Vehicle,Contact
+yaw rate,Vehicle motion,Vehicle,Non-contact
+abnormal behaviors,Posture,Behavioral,Non-contact
+driving time,Other,Vehicle,Other
+physical factors,Other,Other,Other
+oxygen saturation,Respiration,Physiological,Contact
+mean headway,Lane,Vehicle,Non-contact
+psychomotor vigilance test (pvt),Other,Behavioral,Contact
+blood oxygenation,Respiration,Physiological,Contact
+ear,Other,Other,Other
+mar,Eyes,Behavioral,Non-contact
+eye pattern,Eyes,Behavioral,Non-contact
+resp,Respiration,Physiological,Contact
+wifi,Respiration,Physiological,Non-contact
+bvp,Heart,Physiological,Contact
+pressure distribution,Pressure,Physiological,Contact
+eye rub detection,Eyes,Behavioral,Non-contact
+driver position,Posture,Behavioral,Non-contact
+critical flicker fusion test,Eyes,Physiological,Contact
+driving operation data,Vehicle control,Vehicle,Other
+rppg,Heart,Physiological,Non-contact
+subjective data acquisition,Subjective reporting,Subjective,Other
+facial key-points detection,Face,Behavioral,Non-contact
+respiration sensor,Respiration,Physiological,Contact
+temperature sensor,Skin,Physiological,Non-contact
+line crossings,Lane,Vehicle,Non-contact
+brake pedal signals,Vehicle control,Vehicle,Contact
+longitudinal acceleration,Vehicle motion,Vehicle,Non-contact
+motion tracking,Posture,Behavioral,Non-contact
+camera images,Other,Behavioral,Non-contact
+lane-related information,Lane,Vehicle,Non-contact
+visuomotor secondary task,Other,Other,Other
+bcg signal,Heart,Physiological,Contact
+saccade,Eyes,Behavioral,Non-contact
+throttle position,Vehicle control,Vehicle,Contact
+voice detection,Speech,Behavioral,Non-contact
+sight movement,Eyes,Behavioral,Non-contact
+co2,Respiration,Physiological,Contact
+voice data,Speech,Behavioral,Non-contact
+forehead temperature,Skin,Physiological,Contact
